@@ -1,38 +1,137 @@
-.App {
-  text-align: center;
+/* Add styling for your page here */
+.App {}
+
+.Body {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Filter and Sort */
+
+.FilterAndSort {
+  width: 15%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.FilterSection {
+  background: white;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em;
 }
 
-.App-link {
-  color: #61dafb;
+.Sort {
+  background-color: white;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.OfferingFilters {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+
+.AcceptingFilters {
+  display: flex;
+  flex-direction: column;
+  margin: 1em;
+}
+
+.FilterColumns {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+/* Large Areas */
+.TopBanner {
+  padding: 2em;
+}
+
+.Body {
+  /* background-color: black; */
+}
+
+.ItemArea {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  padding: 2%;
+}
+
+.CartArea {
+  width: 15%;
+  background-color: white;
+  border-radius: 1em;
+  margin: 1em;
+  padding: 1em;
+}
+
+
+/* Styles for Items */
+.Item {
+  display: flex;
+  flex-direction: column;
+  width: 27%;
+  margin: 1%;
+  padding: 2%;
+  background-color: #dbdbdb;
+  border-radius: 12px;
+}
+
+.Item p {
+  margin: 0;
+}
+
+.AggregatorItem {
+  width: 80%;
+  margin: 1%;
+  padding: .5em;
+  border-radius: 1em;
+  border-style: solid;
+}
+
+.AggregatorItem p {
+  margin: 0;
+}
+
+.TradingRequests {
+  background-color: white;
+  padding: 1em 0;
+  margin: 1em 0;
+}
+
+.ItemName {
+  color: blue;
+}
+
+.ItemTag {
+  color: green;
+}
+
+.FilterSelected {
+  background-color: rgb(255, 158, 207);
+  border-radius: .5em;
+  border-width: .15em;
+}
+
+.FilterDefault {
+  background-color: white;
+  border-radius: .5em;
+  border-width: .15em;
+}
+
+.ImageSquare {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
