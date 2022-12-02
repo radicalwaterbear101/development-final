@@ -1,0 +1,230 @@
+[
+    {
+        "user": "techpaul",
+        "name": "airpods",
+        "itemTag": "technology",
+        "datePosted": "2021-01-22",
+        "description": "This is a pair of first generation airpods. Used for 3 years.",
+        "lookingFor": {
+            "priority1": {
+                "name": "iPod",
+                "itemTag": "technology"
+            },
+            "priority2": {
+                "name": "fork",
+                "itemTag": "kitchenware"
+            }
+        },
+        "image": "images/airpods.jpg",
+        "monetaryEqual": 50.00
+    },
+    {
+        "user": "techpaul",
+        "name": "command strips",
+        "itemTag": "home decor",
+        "datePosted": "2020-03-14",
+        "description": "8-10 differently sized command strips and command hooks. Message for details!",
+        "lookingFor": {
+            "priority1": {
+                "name": "tape dispenser",
+                "itemTag": "office supplies"
+            },
+            "priority2": {
+                "name": "mouse",
+                "itemTag": "technology"
+            }
+        },
+        "image": "images/command strips.jpg",
+        "monetaryEqual": 5.00
+    },
+    {
+        "user": "healthjeremiah",
+        "name": "band aids",
+        "itemTag": "health",
+        "datePosted": "2022-02-02",
+        "description": "There are about 50-60 band aids left, with assorted sizes. Message for any questions.",
+        "lookingFor": {
+            "priority1": {
+                "name": "protein powder",
+                "itemTag": "health"
+            },
+            "priority2": {
+                "name": "cargo pants",
+                "itemTag": "clothes"
+            }
+        },
+        "image": "images/band aids.jpg",
+        "monetaryEqual": 5.00
+    },
+    {
+        "user": "clothesmaria",
+        "name": "cargo pants",
+        "itemTag": "clothes",
+        "datePosted": "2022-04-30",
+        "description": "Thrifted cargo paints. The bottom parts of the legs can be detached, turning the pants into shorts. 34 inch waist",
+        "lookingFor": {
+            "priority1": {
+                "name": "nike af1",
+                "itemTag": "shoes"
+            },
+            "priority2": {
+                "name": "swiffer",
+                "itemTag": "cleaning"
+            }
+        },
+        "image": "images/cargo pants.jpg",
+        "monetaryEqual": 12.99
+    },
+    {
+        "user": "techpaul",
+        "name": "christmas lights",
+        "itemTag": "home decor",
+        "datePosted": "2022-06-08",
+        "description": "15-25 ft of christmas lights, plug into an outlet to use.",
+        "lookingFor": {
+            "priority1": {
+                "name": "tape dispenser",
+                "itemTag": "office supplies"
+            },
+            "priority2": {
+                "name": "mouse",
+                "itemTag": "technology"
+            }
+        },
+        "image": "images/christmas lights.jpg",
+        "monetaryEqual": 10.00
+    },
+    {
+        "user": "utensiljoy",
+        "name": "fork",
+        "itemTag": "kitchenware",
+        "datePosted": "2016-06-18",
+        "description": "This is a fork, part of a 5 peice set. Trading them each fork separately. Message if interested in the set.",
+        "lookingFor": {
+            "priority1": {
+                "name": "airpods",
+                "itemTag": "technology"
+            },
+            "priority2": {
+                "name": "spatula",
+                "itemTag": "kitchenware"
+            }
+        },
+        "image": "images/fork.jpg",
+        "monetaryEqual": 2.50
+    },
+    {
+        "user": "clothesmaria",
+        "name": "laundry beads",
+        "itemTag": "cleaning",
+        "datePosted": "2022-07-01",
+        "description": "About 80% of the container is left.",
+        "lookingFor": {
+            "priority1": {
+                "name": "nike af1",
+                "itemTag": "shoes"
+            },
+            "priority2": {
+                "name": "cargo pants",
+                "itemTag": "clothes"
+            }
+        },
+        "image": "images/laundry beads.jpg",
+        "monetaryEqual": 6.00
+    },
+    {
+        "user": "shoesraina",
+        "name": "nike af1",
+        "itemTag": "shoes",
+        "datePosted": "2015-07-01",
+        "description": "Pink Nike Air Force 1 shoes, womens size 6. Lightly worn for approx 1 month.",
+        "lookingFor": {
+            "priority1": {
+                "name": "cargo pants",
+                "itemTag": "clothes"
+            },
+            "priority2": {
+                "name": "converse high tops",
+                "itemTag": "shoes"
+            }
+        },
+        "image": "images/nike af1.jpg",
+        "monetaryEqual": 20.00
+    },
+    {
+        "user": "miscpearl",
+        "name": "pan",
+        "itemTag": "kitchenware",
+        "datePosted": "2022-07-06",
+        "description": "Cooking pan, lightly used for approx 4 months. 8 inch radius.",
+        "lookingFor": {
+            "priority1": {
+                "name": "airpods",
+                "itemTag": "technology"
+            },
+            "priority2": {
+                "name": "christmas lights",
+                "itemTag": "home decor"
+            }
+        },
+        "image": "images/pan.jpg",
+        "monetaryEqual": 10.00
+    },
+    {
+        "user": "utensiljoy",
+        "name": "spoon",
+        "itemTag": "kitchenware",
+        "datePosted": "2022-11-11",
+        "description": "This is a spoon, part of a 4 pc set. Trading each spoon separately. Message if interested in the set.",
+        "lookingFor": {
+            "priority1": {
+                "name": "whisk",
+                "itemTag": "kitchenware"
+            },
+            "priority2": {
+                "name": "spatula",
+                "itemTag": "kitchenware"
+            }
+        },
+        "image": "images/spoon.jpg",
+        "monetaryEqual": 2.50
+    },
+    {
+        "user": "miscpearl",
+        "name": "swiffer",
+        "itemTag": "cleaning",
+        "datePosted": "2022-11-12",
+        "description": "Swiffer stick, 40 inches tall. I have swiffer wipes as well and am willing to add depending on what you have to offer!",
+        "lookingFor": {
+            "priority1": {
+                "name": "airpods",
+                "itemTag": "technology"
+            },
+            "priority2": {
+                "name": "christmas lights",
+                "itemTag": "home decor"
+            }
+        },
+        "image": "images/swiffer.jpg",
+        "monetaryEqual": 15.00
+    },
+    {
+        "user": "miscpearl",
+        "name": "tape dispenser",
+        "itemTag": "office supplies",
+        "datePosted": "2022-11-28",
+        "description": "Tape dispenser from Office Depot. Works with clear tape and washi tape. I have different tapes that I am willing to add depending on what you have to offer!",
+        "lookingFor": {
+            "priority1": {
+                "name": "command strips",
+                "itemTag": "home decor"
+            },
+            "priority2": {
+                "name": "christmas lights",
+                "itemTag": "home decor"
+            }
+        },
+        "image": "images/tape dispenser.jpg",
+        "monetaryEqual": 5.00
+    }
+]
