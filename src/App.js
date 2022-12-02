@@ -229,7 +229,7 @@ function App() {
 
 
           <div className="Sort">
-            <div> Sort Posts by Date</div>
+            <div> Sort Posts by...</div>
             <button onClick={() => sortItems("oldToNew")}> Oldest to Newest</button>
             <button onClick={() => sortItems("newToOld")}> Newest to Oldest</button>
           </div>
